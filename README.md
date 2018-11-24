@@ -1,0 +1,2 @@
+# word2vec
+使用numpy和tensorflow实现了几个词向量模型
