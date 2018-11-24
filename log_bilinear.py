@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import numpy as np
-
+# log-bilinear 模型
 
 def save(a, b):
     # a 是词向量 b是词典
